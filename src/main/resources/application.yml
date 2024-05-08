@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: AuthWithOkta
+
+server:
+  port: 3000
+
+okta:
+  oauth2:
+    issuer: https://dev-itwvav8vimdb2dak.us.auth0.com/
+    client-id: LczkfyFPrUCctJw776wFmjW912y3taqp
+    client-secret: RJdIHduUHrj75iczgiy2jNGWJOMenJWyCx_0pwaPA8kJxJ0G_ABR0LERPcDz0TbB
+
+
